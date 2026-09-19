@@ -1,5 +1,5 @@
-import { setupCounter } from './counter.js'
 import './style.css'
+import { setupCounter } from './task.js'
 
 document.querySelector('#app').innerHTML = `
 <main class="flex justify-center flex-col max-w-[1080px] m-0 mx-auto text-center" >
